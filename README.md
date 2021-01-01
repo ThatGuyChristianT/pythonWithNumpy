@@ -1,4 +1,6 @@
 # pythonWithNumpy
+One of Python's Leaner Algebra Libraries and relied upon as one of PyData Ecosystem's building blocks.
+
 ##NumPy Arrays
 - Introduction and explanation for provided methods that comes with importing NumPy
 - Creation of both 1 & 2 Dimensional Arrays
