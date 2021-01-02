@@ -9,7 +9,7 @@ vectors, arrays, matrices, and numeric generation.
 - Generation of specific types of Arrays
 
 ## NumPy Indexing and Selection
-- Retrieval of value(s) for both 1 & 2 Dimensional Arrays
+- Retrieval of value(s) for both Array and Matrix
 - Channeling portion of an Array to a variable
 - Explanation of what each line of what each line of code does
 
